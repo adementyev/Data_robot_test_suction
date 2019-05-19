@@ -1,4 +1,4 @@
-n,n, ir_data, pressure, x_location, y_location, t1, flags1
+n, ir_data, x_location, y_location
 S,2062,0,0
 S,2065,0,0
 S,2055,0,0
