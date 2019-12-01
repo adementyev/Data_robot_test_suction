@@ -1,4 +1,4 @@
-n,ir_data_l, ir_data_r, pressure_l, pressure_r, current_x, current_y, sequence, time
+n,ir_data_l,ir_data_r,pressure_l,pressure_r,current_x,current_y,sequence,time
 S,408,360,-6.34,-6.13,12,0,0,2603300
 S,407,360,-6.34,-6.14,12,0,0,2603400
 S,388,364,-6.34,-6.14,12,0,0,2603500
